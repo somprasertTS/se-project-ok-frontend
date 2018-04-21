@@ -59,7 +59,7 @@
 			<div class="col-md-1">
 			</div>
 			<div class="col-md-10">
-	<div class="card border-primary mb-3" style="max-width: 60rem;">
+	<div class="card border-primary mb-3" style="max-width: 50rem;">
 			<div class="card-body"></div>
 				<div class="container-fluid">
 					<div class="row">
