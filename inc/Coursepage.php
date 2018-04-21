@@ -30,6 +30,7 @@ include_once (realpath('templates/stapped/navbar.php'));
 		color :black;
 	}
 </style>
+<br><br><br><br><br>
 <div class="container-fluid">
 	<div class="row">
 		<div class="col-md-12">	

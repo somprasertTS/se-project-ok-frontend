@@ -30,6 +30,7 @@ include_once (realpath('templates/stapped/navbar.php'));
 			color :black;
 		}
 	</style>
+	<br><br><br><br><br>
 		<div class="row">
 				<div class="col-md-1">
 				</div>
@@ -165,8 +166,7 @@ include_once (realpath('templates/stapped/navbar.php'));
 							<div class="col-md-1">			 
 								<button type="button" class="btn  btn-primary">See all</button>
 							</div>
-							<p>									
-							</p>
+							<br><br>
 							<div class="col-md-5">
 							</div>
 							<p>									
