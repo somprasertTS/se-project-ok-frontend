@@ -22,12 +22,11 @@
     <!-- Include all compiled plugins (below), or include individual files as needed -->
     <script src="js/bootstrap.min.js"></script>
     <script src="js/jasny-bootstrap.min.js"></script>
-    
-    
-
 </head>
 
 <body class="bg-dark">
+    <a href="inc/studentDashboard.php" class="btn btn-info" role="button">test</a>
+    
     <div class="container py-5">
         <div class="row">
             <div class="col-md-12">
@@ -56,7 +55,7 @@
                                         <label class="custom-control custom-checkbox">
                                           <input type="checkbox" class="custom-control-input">
                                           <span class="custom-control-indicator"></span>
-                                        <span class="custom-control-description small text-dark">Remember me on this computer</span>
+                                          <span class="custom-control-description small text-dark">Remember me on this computer</span>
                                         </label>
                                     </div>
                                     <button type="submit" class="btn btn-success btn-lg " id="btnLogin">Sign in</button>
