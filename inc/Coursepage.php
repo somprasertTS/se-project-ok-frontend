@@ -43,21 +43,14 @@
 		color :black;
 	}
 </style>
-
-
 <div class="container-fluid">
 	<div class="row">
-		<div class="col-md-12">
-				<h2>
-				</h2>
-				<p>
-				</p>		
+		<div class="col-md-12">	
 				<div class="row">
 						<div class="col-md-9">
 						</div>
 						<div class="col-md-1">
-							<div class="dropdown">
-								 
+							<div class="dropdown">								 
 								<button class="btn btn-primary dropdown-toggle" type="button" id="dropdownMenuButton" data-toggle="dropdown">
 									Filter
 								</button>
@@ -84,26 +77,13 @@
 				<div class="col-md-1">
 				</div>
 				<div class="col-md-10">
-					<p>
-					</p>
 					<h2>
 							<font color=“#FFFFFF”> Course page </font>
-					</h2>
-					<p>
-					</p>
-
-				
+					</h2>			
 				</div>
 				<div class="col-md-1">
 				</div>
 			</div>
-			
-			<h2>
-			</h2>
-			<p>
-			</p>
-
-
 			<div class="row">
 				<div class="col-md-12">
 				</div>
@@ -157,9 +137,6 @@
 				<div class="col-md-1">
 				</div>
 			</div>
-			<p>
-
-			</p>
 			<div class="row">
 				<div class="col-md-1">
 				</div>
@@ -212,9 +189,6 @@
 				<div class="col-md-1">
 				</div>
 			</div>
-			<p>
-
-			</p>
 			<div class="row">
 				<div class="col-md-1">
 				</div>
@@ -264,9 +238,6 @@
 				<div class="col-md-1">
 				</div>
 			</div>
-			<p>
-
-			</p>
 			<div class="row">
 				<div class="col-md-1">
 				</div>
@@ -313,9 +284,6 @@
 							</div>
 					</div>
 				</div>
-				<p>
-
-				</p>
 				<div class="col-md-1">
 				</div>
 			</div>
