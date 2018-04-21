@@ -38,7 +38,7 @@
 	<!--Background พื้นหลัง -->
 	<style type="text/css">	
 		body{
-			background-image:url(BG2.jpg);
+			background-image:url(pic/BG2.jpg);
 			background-size:cover;
 			background-attachment:fixed;	
 		}
@@ -128,7 +128,7 @@
 								<div class="col-md-1">
 									 
 									<button type="button" class="btn btn-primary">
-										<img src="icon.png" alt="icon">
+										<img src="pic/icon.png" alt="icon">
 										Edit assignment	
 									</button>
 								</div>
@@ -152,7 +152,7 @@
 								<div class="col-md-1">
 										 
 									<button type="button" class="btn btn-primary">
-										<img src="icon.png" alt="icon">
+										<img src="pic/icon.png" alt="icon">
 										Edit assignment	
 									</button>
 								</div>
@@ -175,7 +175,7 @@
 								</div>
 								<div class="col-md-1">		 
 									<button type="button" class="btn  btn-primary">
-										<img src="icon.png" alt="icon">
+										<img src="pic/icon.png" alt="icon">
 										Edit assignment	
 									</button>
 								</div>
