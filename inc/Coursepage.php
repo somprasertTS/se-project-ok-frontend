@@ -28,7 +28,7 @@
 <!--Background พื้นหลัง -->
 <style type="text/css">	
 	body{
-		background-image:url(BG.jpg);
+		background-image:url(pic/BG.jpg);
 		background-size:cover;
 		background-attachment:fixed;	
 	}
