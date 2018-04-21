@@ -96,7 +96,7 @@
 								<div class="col-md-4">
 										<a class="btn" href="#">
 											<div class="card">
-												<img class="card-img-top" alt="Bootstrap Thumbnail First" src="coursepage.jpg" />
+												<img class="card-img-top" alt="Bootstrap Thumbnail First" src="pic/coursepage.jpg" />
 													<div class="card-block">
 														<h5 class="card-title">
 															This location is perfect <br /> 
@@ -109,7 +109,7 @@
 								<div class="col-md-4">
 										<a class="btn" href="#">
 											<div class="card">
-												<img class="card-img-top" alt="Bootstrap Thumbnail First" src="coursepage.jpg" />
+												<img class="card-img-top" alt="Bootstrap Thumbnail First" src="pic/coursepage.jpg" />
 													<div class="card-block">
 														<h5 class="card-title">
 																This location is perfect <br /> 
@@ -122,7 +122,7 @@
 								<div class="col-md-4">
 										<a class="btn" href="#">
 											<div class="card">
-												<img class="card-img-top" alt="Bootstrap Thumbnail First" src="coursepage.jpg" />
+												<img class="card-img-top" alt="Bootstrap Thumbnail First" src="pic/coursepage.jpg" />
 													<div class="card-block">
 														<h5 class="card-title">
 																This location is perfect <br />  
@@ -145,7 +145,7 @@
 							<div class="col-md-4">
 									<a class="btn" href="#">
 										<div class="card">
-											<img class="card-img-top" alt="Bootstrap Thumbnail First" src="coursepage.jpg" />
+											<img class="card-img-top" alt="Bootstrap Thumbnail First" src="pic/coursepage.jpg" />
 												<div class="card-block">
 													<h5 class="card-title">
 															This location is perfect <br />  
@@ -158,7 +158,7 @@
 							<div class="col-md-4">
 									<a class="btn" href="#">
 										<div class="card">
-											<img class="card-img-top" alt="Bootstrap Thumbnail First" src="coursepage.jpg" />
+											<img class="card-img-top" alt="Bootstrap Thumbnail First" src="pic/coursepage.jpg" />
 												<div class="card-block">
 													<h5 class="card-title">
 															This location is perfect <br /> 
@@ -171,7 +171,7 @@
 							<div class="col-md-4">
 									<a class="btn" href="#">
 										<div class="card">
-											<img class="card-img-top" alt="Bootstrap Thumbnail First" src="coursepage.jpg" />
+											<img class="card-img-top" alt="Bootstrap Thumbnail First" src="pic/coursepage.jpg" />
 												<div class="card-block">
 													<h5 class="card-title">
 															This location is perfect <br />  
@@ -197,7 +197,7 @@
 								<div class="col-md-4">
 										<a class="btn" href="#">
 											<div class="card">
-												<img class="card-img-top" alt="Bootstrap Thumbnail First" src="coursepage.jpg" />
+												<img class="card-img-top" alt="Bootstrap Thumbnail First" src="pic/coursepage.jpg" />
 													<div class="card-block">
 														<h5 class="card-title">
 																This location is perfect <br />  
@@ -210,7 +210,7 @@
 								<div class="col-md-4">
 										<a class="btn" href="#">
 											<div class="card">
-												<img class="card-img-top" alt="Bootstrap Thumbnail First" src="coursepage.jpg" />
+												<img class="card-img-top" alt="Bootstrap Thumbnail First" src="pic/coursepage.jpg" />
 													<div class="card-block">
 														<h5 class="card-title">
 																This location is perfect <br /> 
@@ -223,7 +223,7 @@
 								<div class="col-md-4">
 										<a class="btn" href="#">
 											<div class="card">
-												<img class="card-img-top" alt="Bootstrap Thumbnail First" src="coursepage.jpg" />
+												<img class="card-img-top" alt="Bootstrap Thumbnail First" src="pic/coursepage.jpg" />
 													<div class="card-block">
 														<h5 class="card-title">
 																This location is perfect <br />  
@@ -246,7 +246,7 @@
 							<div class="col-md-4">
 									<a class="btn" href="#">
 										<div class="card">
-											<img class="card-img-top" alt="Bootstrap Thumbnail First" src="coursepage.jpg" />
+											<img class="card-img-top" alt="Bootstrap Thumbnail First" src="pic/coursepage.jpg" />
 												<div class="card-block">
 													<h5 class="card-title">
 															This location is perfect <br />  
@@ -259,7 +259,7 @@
 							<div class="col-md-4">
 									<a class="btn" href="#">
 										<div class="card">
-											<img class="card-img-top" alt="Bootstrap Thumbnail First" src="coursepage.jpg" />
+											<img class="card-img-top" alt="Bootstrap Thumbnail First" src="pic/coursepage.jpg" />
 												<div class="card-block">
 													<h5 class="card-title">
 															This location is perfect <br /> 
@@ -272,7 +272,7 @@
 							<div class="col-md-4">
 									<a class="btn" href="#">
 										<div class="card">
-											<img class="card-img-top" alt="Bootstrap Thumbnail First" src="coursepage.jpg" />
+											<img class="card-img-top" alt="Bootstrap Thumbnail First" src="pic/coursepage.jpg" />
 												<div class="card-block">
 													<h5 class="card-title">
 															This location is perfect <br /> 
