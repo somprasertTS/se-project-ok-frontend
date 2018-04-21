@@ -38,7 +38,7 @@
 	<!--Background พื้นหลัง -->
 	<style type="text/css">	
 		body{
-			background-image:url(BG1.jpg);
+			background-image:url(http://img.in.th/images/50fdfbf859ac6ddfd1257b2d13572ec6.jpg);
 			background-size:cover;
 			background-attachment:fixed;	
 		}
@@ -63,7 +63,7 @@
 				<div class="col-md-1">
 				</div>
 				<div class="col-md-10">
-		<div class="card border-primary mb-3" style="max-width: 60rem;">
+		<div class="card border-primary mb-3" style="max-width: 50rem;">
 				<div class="card-body"></div>
 
     <div class="container-fluid">
@@ -172,7 +172,7 @@
 								<div class="col-md-5">
 								</div>
 								<div class="col-md-1">
-									<p src="1.png" alt="image description" title="You are not enroll in this course"/>		 
+									<p src="http://img.in.th/images/931af3648f3139d0b45de564bdfff217.png" alt="image description" title="You are not enroll in this course"/>		 
 									<button type="button" class="btn disabled btn-primary">
 										View assignment	
 									</button>

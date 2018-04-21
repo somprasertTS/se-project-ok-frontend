@@ -38,7 +38,7 @@
 	<!--Background พื้นหลัง -->
 	<style type="text/css">	
 		body{
-			background-image:url(BG2.jpg);
+			background-image:url(http://img.in.th/images/50fdfbf859ac6ddfd1257b2d13572ec6.jpg);
 			background-size:cover;
 			background-attachment:fixed;	
 		}
@@ -63,7 +63,7 @@
 				<div class="col-md-1">
 				</div>
 				<div class="col-md-10">
-		<div class="card border-primary mb-3" style="max-width: 60rem;">
+		<div class="card border-primary mb-3" style="max-width: 50rem;">
 				<div class="card-body"></div>
 
     <div class="container-fluid">
@@ -128,7 +128,7 @@
 								<div class="col-md-1">
 									 
 									<button type="button" class="btn btn-primary">
-										<img src="icon.png" alt="icon">
+										<img src="http://img.in.th/images/9420d29316209af535c759da74d6f03a.png" alt="icon">
 										Edit assignment	
 									</button>
 								</div>
@@ -152,7 +152,7 @@
 								<div class="col-md-1">
 										 
 									<button type="button" class="btn btn-primary">
-										<img src="icon.png" alt="icon">
+										<img src="http://img.in.th/images/9420d29316209af535c759da74d6f03a.png" alt="icon">
 										Edit assignment	
 									</button>
 								</div>
@@ -175,7 +175,7 @@
 								</div>
 								<div class="col-md-1">		 
 									<button type="button" class="btn  btn-primary">
-										<img src="icon.png" alt="icon">
+										<img src="http://img.in.th/images/9420d29316209af535c759da74d6f03a.png" alt="icon">
 										Edit assignment	
 									</button>
 								</div>
