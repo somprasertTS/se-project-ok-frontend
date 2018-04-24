@@ -1,5 +1,5 @@
 <?php
-$page['title'] = "Teacher Dashboard";
+$page['title'] = "Student Dashboard";
 include_once (realpath('templates/stapped/header.php'));
 include_once (realpath('templates/stapped/navbar.php'));
 ?>
@@ -22,6 +22,7 @@ include_once (realpath('templates/stapped/navbar.php'));
 			color :black;
 		}
 	</style>
+	<br><br><br><br><br>
 	<div class="row">
 			<div class="col-md-1">
 			</div>
@@ -133,6 +134,7 @@ include_once (realpath('templates/stapped/navbar.php'));
 										See all
 									</button>
 								</div>
+								<br><br>
 								<div class="col-md-5">
 								</div>
 							</div> 

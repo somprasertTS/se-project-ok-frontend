@@ -1,21 +1,9 @@
-<<<<<<< HEAD:TeacherDashboard.php
-=======
-<?php
-$page['title'] = "Teacher Dashboard";
-include_once (realpath('templates/stapped/header.php'));
-include_once (realpath('templates/stapped/navbar.php'));
-?>
->>>>>>> upstream/master:inc/TeacherDashboard.php
 
   <body>
 	<!--Background พื้นหลัง -->
 	<style type="text/css">	
 		body{
-<<<<<<< HEAD:TeacherDashboard.php
 			background-image:url(http://img.in.th/images/50fdfbf859ac6ddfd1257b2d13572ec6.jpg);
-=======
-			background-image:url(pic/BG.jpg);
->>>>>>> upstream/master:inc/TeacherDashboard.php
 			background-size:cover;
 			background-attachment:fixed;	
 		}
@@ -29,8 +17,11 @@ include_once (realpath('templates/stapped/navbar.php'));
 			font-size :25px;
 			color :black;
 		}
-	</style>
-	<br><br><br><br><br>
+		</style>
+				
+		<p>	
+		</p>
+
 		<div class="row">
 				<div class="col-md-1">
 				</div>
@@ -52,6 +43,12 @@ include_once (realpath('templates/stapped/navbar.php'));
 					<h2>
 						Recent update course
 					</h2>
+					<p>
+
+
+
+					</p>
+
 				</div>
 				<div class="col-md-1.7">
 					<div class="dropdown">
@@ -96,86 +93,84 @@ include_once (realpath('templates/stapped/navbar.php'));
 								<div class="col-md-1">
 									 
 									<button type="button" class="btn btn-primary">
-<<<<<<< HEAD:TeacherDashboard.php
-										<img src="http://img.in.th/images/9420d29316209af535c759da74d6f03a.png" alt="icon">
-=======
-										<img src="pic/icon.png" alt="icon">
->>>>>>> upstream/master:inc/TeacherDashboard.php
-										Edit assignment	
+										View assignment	
 									</button>
 								</div>
 								<p>									
 								</p>
 								<div class="col-md-7">
 								</div>
-							</div> 
-						</div>
-						<div class="jumbotron">
-							<h5>
-								262xxx  Printciple of black desert RNG
-							</h5>						
-							<div class="row">
+						</div> 
+					</div>
+					<div class="jumbotron">
+						<h5>
+							262xxx  Printciple of black desert RNG
+						</h5>
+						<p>							
+						</p>						
+						<div class="row">
 								<div class="col-md-4">
 								</div>
 								<div class="col-md-5">
 								</div>
-								<div class="col-md-1">		 
+								<div class="col-md-1">
+										 
 									<button type="button" class="btn btn-primary">
-<<<<<<< HEAD:TeacherDashboard.php
-										<img src="http://img.in.th/images/9420d29316209af535c759da74d6f03a.png" alt="icon">
-=======
-										<img src="pic/icon.png" alt="icon">
->>>>>>> upstream/master:inc/TeacherDashboard.php
-										Edit assignment	
+										View assignment	
 									</button>
 								</div>
 								<p>									
 								</p>
 								<div class="col-md-5">
 								</div>
-							</div> 
-						</div>
-						<div class="jumbotron">
-							<h5>
-								263xxx  Frame rate management
-							</h5>						
-							<div class="row">
+						</div> 
+					</div>
+					<div class="jumbotron">
+						<h5>
+							263xxx  Frame rate management
+						</h5>
+						<p>							
+						</p>						
+						<div class="row">
 								<div class="col-md-4">
 								</div>
 								<div class="col-md-5">
 								</div>
-								<div class="col-md-1">		 
-									<button type="button" class="btn  btn-primary">
-<<<<<<< HEAD:TeacherDashboard.php
-										<img src="http://img.in.th/images/9420d29316209af535c759da74d6f03a.png" alt="icon">
-=======
-										<img src="pic/icon.png" alt="icon">
->>>>>>> upstream/master:inc/TeacherDashboard.php
-										Edit assignment	
+								<div class="col-md-1">
+									<p src="http://img.in.th/images/931af3648f3139d0b45de564bdfff217.png" alt="image description" title="You are not enroll in this course"/>		 
+									<button type="button" class="btn disabled btn-primary">
+										View assignment	
 									</button>
 								</div>
+								<p>									
+								</p>
 								<div class="col-md-5">
 								</div>
-							</div> 
-						</div>
-						<div class="row">
+						</div> 
+					</div>
+					<div class="row">
 							<div class="col-md-5">
 							</div>
 							<div class="col-md-5">
 							</div>
-							<div class="col-md-1">			 
-								<button type="button" class="btn  btn-primary">See all</button>
+							<div class="col-md-1">
+										 
+								<button type="button" class="btn  btn-primary">
+									See all
+								</button>
 							</div>
-							<br><br>
+							<p>									
+							</p>
 							<div class="col-md-5">
 							</div>
 							<p>									
 							</p>
-						</div> 
-					</div>
+					</div> 
 				</div>
 			</div>
 		</div>
+</div>
+
     <script src="js/jquery.min.js"></script>
     <script src="js/bootstrap.min.js"></script>
     <script src="js/scripts.js"></script>
