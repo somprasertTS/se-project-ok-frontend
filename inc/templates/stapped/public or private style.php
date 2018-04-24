@@ -47,6 +47,7 @@
   			width: 26px;
   			left: 4px;
   			bottom: 4px;
+            background-image:url(pic/add.jpg);
   			background-color: white;
   			-webkit-transition: .4s;
 			transition: .4s;
