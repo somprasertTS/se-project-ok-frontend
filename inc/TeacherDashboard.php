@@ -1,21 +1,13 @@
-<<<<<<< HEAD:TeacherDashboard.php
-=======
 <?php
 $page['title'] = "Teacher Dashboard";
 include_once (realpath('templates/stapped/header.php'));
 include_once (realpath('templates/stapped/navbar.php'));
 ?>
->>>>>>> upstream/master:inc/TeacherDashboard.php
-
   <body>
 	<!--Background พื้นหลัง -->
 	<style type="text/css">	
 		body{
-<<<<<<< HEAD:TeacherDashboard.php
-			background-image:url(http://img.in.th/images/50fdfbf859ac6ddfd1257b2d13572ec6.jpg);
-=======
 			background-image:url(pic/BG.jpg);
->>>>>>> upstream/master:inc/TeacherDashboard.php
 			background-size:cover;
 			background-attachment:fixed;	
 		}
@@ -93,14 +85,9 @@ include_once (realpath('templates/stapped/navbar.php'));
 								</div>
 								<div class="col-md-5">
 								</div>
-								<div class="col-md-1">
-									 
+								<div class="col-md-1">							 
 									<button type="button" class="btn btn-primary">
-<<<<<<< HEAD:TeacherDashboard.php
-										<img src="http://img.in.th/images/9420d29316209af535c759da74d6f03a.png" alt="icon">
-=======
 										<img src="pic/icon.png" alt="icon">
->>>>>>> upstream/master:inc/TeacherDashboard.php
 										Edit assignment	
 									</button>
 								</div>
@@ -121,11 +108,7 @@ include_once (realpath('templates/stapped/navbar.php'));
 								</div>
 								<div class="col-md-1">		 
 									<button type="button" class="btn btn-primary">
-<<<<<<< HEAD:TeacherDashboard.php
-										<img src="http://img.in.th/images/9420d29316209af535c759da74d6f03a.png" alt="icon">
-=======
 										<img src="pic/icon.png" alt="icon">
->>>>>>> upstream/master:inc/TeacherDashboard.php
 										Edit assignment	
 									</button>
 								</div>
@@ -146,11 +129,7 @@ include_once (realpath('templates/stapped/navbar.php'));
 								</div>
 								<div class="col-md-1">		 
 									<button type="button" class="btn  btn-primary">
-<<<<<<< HEAD:TeacherDashboard.php
-										<img src="http://img.in.th/images/9420d29316209af535c759da74d6f03a.png" alt="icon">
-=======
 										<img src="pic/icon.png" alt="icon">
->>>>>>> upstream/master:inc/TeacherDashboard.php
 										Edit assignment	
 									</button>
 								</div>
