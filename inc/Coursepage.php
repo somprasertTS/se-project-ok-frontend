@@ -39,8 +39,7 @@ include_once (realpath('templates/stapped/navbar.php'));
 	<div class="row">
 		<div class="col-md-12">	
 				<div class="row">
-						<div class="col-md-9">
-						</div>
+						<div class="col-md-9"></div>						
 						<div class="col-md-1">
 							<div class="dropdown">								 
 								<button class="btn btn-primary dropdown-toggle" type="button" id="dropdownMenuButton" data-toggle="dropdown">
@@ -66,23 +65,23 @@ include_once (realpath('templates/stapped/navbar.php'));
 						</div>
 				</div>
 			<div class="row">
-				<div class="col-md-1">
-				</div>
+				<div class="col-md-1"></div>
+				
 				<div class="col-md-10">
 					<h2>
 							<font color=“#FFFFFF”> Course page </font>
 					</h2>			
 				</div>
-				<div class="col-md-1">
-				</div>
+				<div class="col-md-1"></div>
+				
 			</div>
 			<div class="row">
-				<div class="col-md-12">
-				</div>
+				<div class="col-md-12"></div>
+				
 			</div>
 			<div class="row">
-				<div class="col-md-1">
-				</div>
+				<div class="col-md-1"></div>
+				
 				<div class="col-md-10">
 						<div class="row">
 								<div class="col-md-4">
@@ -130,8 +129,8 @@ include_once (realpath('templates/stapped/navbar.php'));
 				</div>
 			</div>
 			<div class="row">
-				<div class="col-md-1">
-				</div>
+				<div class="col-md-1"></div>
+				
 				<div class="col-md-10">
 					<div class="row">
 							<div class="col-md-4">
@@ -178,12 +177,12 @@ include_once (realpath('templates/stapped/navbar.php'));
 				<p>
 
 				</p>
-				<div class="col-md-1">
-				</div>
+				<div class="col-md-1"></div>
+				
 			</div>
 			<div class="row">
-				<div class="col-md-1">
-				</div>
+				<div class="col-md-1"></div>
+				
 				<div class="col-md-10">
 						<div class="row">
 								<div class="col-md-4">
@@ -231,8 +230,8 @@ include_once (realpath('templates/stapped/navbar.php'));
 				</div>
 			</div>
 			<div class="row">
-				<div class="col-md-1">
-				</div>
+				<div class="col-md-1"></div>
+				
 				<div class="col-md-10">
 					<div class="row">
 							<div class="col-md-4">
