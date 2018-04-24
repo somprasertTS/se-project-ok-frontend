@@ -1,21 +1,13 @@
-<<<<<<< HEAD:Coursepage.php
-
-=======
 <?php
 $page['title'] = "Teacher Dashboard";
 include_once (realpath('templates/stapped/header.php'));
 include_once (realpath('templates/stapped/navbar.php'));
 ?>
->>>>>>> upstream/master:inc/Coursepage.php
 
 <!--Background พื้นหลัง -->
 <style type="text/css">	
 	body{
-<<<<<<< HEAD:Coursepage.php
 		background-image:url(https://www.img.in.th/images/11f09901d2e075fff004c507c571088b.png);
-=======
-		background-image:url(pic/BG.jpg);
->>>>>>> upstream/master:inc/Coursepage.php
 		background-size:cover;
 		background-attachment:fixed;	
 	}
@@ -31,7 +23,7 @@ include_once (realpath('templates/stapped/navbar.php'));
 	}
 </style>
 <br><br><br><br><br>
-<div class="container-fluid">
+<div class="container">
 	<div class="row">
 		<div class="col-md-12">	
 				<div class="row">
@@ -84,11 +76,7 @@ include_once (realpath('templates/stapped/navbar.php'));
 								<div class="col-md-4">
 										<a class="btn" href="#">
 											<div class="card">
-<<<<<<< HEAD:Coursepage.php
 												<img class="card-img-top" alt="Bootstrap Thumbnail First" src="https://www.img.in.th/images/c714bb2dc69e9c9590b36ae55ca11937.png" />
-=======
-												<img class="card-img-top" alt="Bootstrap Thumbnail First" src="pic/coursepage.jpg" />
->>>>>>> upstream/master:inc/Coursepage.php
 													<div class="card-block">
 														<h5 class="card-title">
 															This location is perfect <br /> 
@@ -101,11 +89,7 @@ include_once (realpath('templates/stapped/navbar.php'));
 								<div class="col-md-4">
 										<a class="btn" href="#">
 											<div class="card">
-<<<<<<< HEAD:Coursepage.php
 												<img class="card-img-top" alt="Bootstrap Thumbnail First" src="https://www.img.in.th/images/c714bb2dc69e9c9590b36ae55ca11937.png" />
-=======
-												<img class="card-img-top" alt="Bootstrap Thumbnail First" src="pic/coursepage.jpg" />
->>>>>>> upstream/master:inc/Coursepage.php
 													<div class="card-block">
 														<h5 class="card-title">
 																This location is perfect <br /> 
@@ -118,11 +102,7 @@ include_once (realpath('templates/stapped/navbar.php'));
 								<div class="col-md-4">
 										<a class="btn" href="#">
 											<div class="card">
-<<<<<<< HEAD:Coursepage.php
 												<img class="card-img-top" alt="Bootstrap Thumbnail First" src="https://www.img.in.th/images/c714bb2dc69e9c9590b36ae55ca11937.png" />
-=======
-												<img class="card-img-top" alt="Bootstrap Thumbnail First" src="pic/coursepage.jpg" />
->>>>>>> upstream/master:inc/Coursepage.php
 													<div class="card-block">
 														<h5 class="card-title">
 																This location is perfect <br />  
@@ -145,11 +125,7 @@ include_once (realpath('templates/stapped/navbar.php'));
 							<div class="col-md-4">
 									<a class="btn" href="#">
 										<div class="card">
-<<<<<<< HEAD:Coursepage.php
 											<img class="card-img-top" alt="Bootstrap Thumbnail First" src="https://www.img.in.th/images/c714bb2dc69e9c9590b36ae55ca11937.png" />
-=======
-											<img class="card-img-top" alt="Bootstrap Thumbnail First" src="pic/coursepage.jpg" />
->>>>>>> upstream/master:inc/Coursepage.php
 												<div class="card-block">
 													<h5 class="card-title">
 															This location is perfect <br />  
@@ -162,11 +138,7 @@ include_once (realpath('templates/stapped/navbar.php'));
 							<div class="col-md-4">
 									<a class="btn" href="#">
 										<div class="card">
-<<<<<<< HEAD:Coursepage.php
 											<img class="card-img-top" alt="Bootstrap Thumbnail First" src="https://www.img.in.th/images/c714bb2dc69e9c9590b36ae55ca11937.png" />
-=======
-											<img class="card-img-top" alt="Bootstrap Thumbnail First" src="pic/coursepage.jpg" />
->>>>>>> upstream/master:inc/Coursepage.php
 												<div class="card-block">
 													<h5 class="card-title">
 															This location is perfect <br /> 
@@ -179,11 +151,7 @@ include_once (realpath('templates/stapped/navbar.php'));
 							<div class="col-md-4">
 									<a class="btn" href="#">
 										<div class="card">
-<<<<<<< HEAD:Coursepage.php
 											<img class="card-img-top" alt="Bootstrap Thumbnail First" src="https://www.img.in.th/images/c714bb2dc69e9c9590b36ae55ca11937.png" />
-=======
-											<img class="card-img-top" alt="Bootstrap Thumbnail First" src="pic/coursepage.jpg" />
->>>>>>> upstream/master:inc/Coursepage.php
 												<div class="card-block">
 													<h5 class="card-title">
 															This location is perfect <br />  
@@ -209,11 +177,7 @@ include_once (realpath('templates/stapped/navbar.php'));
 								<div class="col-md-4">
 										<a class="btn" href="#">
 											<div class="card">
-<<<<<<< HEAD:Coursepage.php
 												<img class="card-img-top" alt="Bootstrap Thumbnail First" src="https://www.img.in.th/images/c714bb2dc69e9c9590b36ae55ca11937.png" />
-=======
-												<img class="card-img-top" alt="Bootstrap Thumbnail First" src="pic/coursepage.jpg" />
->>>>>>> upstream/master:inc/Coursepage.php
 													<div class="card-block">
 														<h5 class="card-title">
 																This location is perfect <br />  
@@ -226,11 +190,7 @@ include_once (realpath('templates/stapped/navbar.php'));
 								<div class="col-md-4">
 										<a class="btn" href="#">
 											<div class="card">
-<<<<<<< HEAD:Coursepage.php
 												<img class="card-img-top" alt="Bootstrap Thumbnail First" src="https://www.img.in.th/images/c714bb2dc69e9c9590b36ae55ca11937.png" />
-=======
-												<img class="card-img-top" alt="Bootstrap Thumbnail First" src="pic/coursepage.jpg" />
->>>>>>> upstream/master:inc/Coursepage.php
 													<div class="card-block">
 														<h5 class="card-title">
 																This location is perfect <br /> 
@@ -243,11 +203,7 @@ include_once (realpath('templates/stapped/navbar.php'));
 								<div class="col-md-4">
 										<a class="btn" href="#">
 											<div class="card">
-<<<<<<< HEAD:Coursepage.php
 												<img class="card-img-top" alt="Bootstrap Thumbnail First" src="https://www.img.in.th/images/c714bb2dc69e9c9590b36ae55ca11937.png" />
-=======
-												<img class="card-img-top" alt="Bootstrap Thumbnail First" src="pic/coursepage.jpg" />
->>>>>>> upstream/master:inc/Coursepage.php
 													<div class="card-block">
 														<h5 class="card-title">
 																This location is perfect <br />  
@@ -270,11 +226,7 @@ include_once (realpath('templates/stapped/navbar.php'));
 							<div class="col-md-4">
 									<a class="btn" href="#">
 										<div class="card">
-<<<<<<< HEAD:Coursepage.php
 											<img class="card-img-top" alt="Bootstrap Thumbnail First" src="https://www.img.in.th/images/c714bb2dc69e9c9590b36ae55ca11937.png" />
-=======
-											<img class="card-img-top" alt="Bootstrap Thumbnail First" src="pic/coursepage.jpg" />
->>>>>>> upstream/master:inc/Coursepage.php
 												<div class="card-block">
 													<h5 class="card-title">
 															This location is perfect <br />  
@@ -287,11 +239,7 @@ include_once (realpath('templates/stapped/navbar.php'));
 							<div class="col-md-4">
 									<a class="btn" href="#">
 										<div class="card">
-<<<<<<< HEAD:Coursepage.php
 											<img class="card-img-top" alt="Bootstrap Thumbnail First" src="https://www.img.in.th/images/c714bb2dc69e9c9590b36ae55ca11937.png" />
-=======
-											<img class="card-img-top" alt="Bootstrap Thumbnail First" src="pic/coursepage.jpg" />
->>>>>>> upstream/master:inc/Coursepage.php
 												<div class="card-block">
 													<h5 class="card-title">
 															This location is perfect <br /> 
@@ -304,11 +252,7 @@ include_once (realpath('templates/stapped/navbar.php'));
 							<div class="col-md-4">
 									<a class="btn" href="#">
 										<div class="card">
-<<<<<<< HEAD:Coursepage.php
 											<img class="card-img-top" alt="Bootstrap Thumbnail First" src="https://www.img.in.th/images/c714bb2dc69e9c9590b36ae55ca11937.png" />
-=======
-											<img class="card-img-top" alt="Bootstrap Thumbnail First" src="pic/coursepage.jpg" />
->>>>>>> upstream/master:inc/Coursepage.php
 												<div class="card-block">
 													<h5 class="card-title">
 															This location is perfect <br /> 
