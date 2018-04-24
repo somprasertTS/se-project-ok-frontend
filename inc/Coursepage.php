@@ -31,6 +31,14 @@ include_once (realpath('templates/stapped/navbar.php'));
 	}
 </style>
 <br><br><br><br><br>
+<div class="row">
+			<div class="col-md-1">
+			</div>
+			<div class="col-md-10">
+	<div class="card border-primary mb-3" style="max-width: 100rem;">
+			<div class="card-body"></div>
+				<div class="container-fluid">
+					<div class="row">
 <div class="container-fluid">
 	<div class="row">
 		<div class="col-md-12">	
@@ -325,4 +333,9 @@ include_once (realpath('templates/stapped/navbar.php'));
 			</div>
 		</div>
 	</div>
+</div>
+</div>
+</div>
+</div>
+</div>
 </div>
