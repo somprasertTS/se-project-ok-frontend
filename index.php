@@ -24,9 +24,7 @@
     <script src="js/jasny-bootstrap.min.js"></script>
 </head>
 
-<body class="bg-dark">
-    <a href="inc/studentDashboard.php" class="btn btn-info" role="button">test</a>
-    
+<body class="bg-dark">    
     <div class="container py-5">
         <div class="row">
             <div class="col-md-12">
@@ -51,13 +49,10 @@
                                         <input type="password" class="form-control form-control-lg rounded-0" id="pwd1" required="" autocomplete="new-password">
                                         <div class="invalid-feedback">Enter your password too!</div>
                                     </div>
-                                    <div>
-                                        <label class="custom-control custom-checkbox">
-                                          <input type="checkbox" class="custom-control-input">
-                                          <span class="custom-control-indicator"></span>
-                                          <span class="custom-control-description small text-dark">Remember me on this computer</span>
-                                        </label>
+                                    <div>    
+                                        <input type="checkbox" id="myCheck"  onclick="myFunction()"> Remember me
                                     </div>
+                                    <br>
                                     <button type="submit" class="btn btn-success btn-lg " id="btnLogin">Sign in</button>
                                     <button type="submit" class="btn btn-primary btn-lg " id="btnSignup">Sign up</button>
                                     <button type="submit" class="btn btn-info btn-lg " id="btnSignup">Sign in with moodle</button>
