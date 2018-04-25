@@ -18,6 +18,17 @@
         files as needed -->
         <script src="js/bootstrap.min.js"></script>
         <script src="js/jasny-bootstrap.min.js"></script>
+        <meta charset="utf-8">
+        <meta http-equiv="X-UA-Compatible" content="IE=edge">
+        <meta name="viewport" content="width=device-width, initial-scale=1">
+        <title>Teacher prcess page</title>
+        <meta name="description" content="Source code generated using layoutit.com">
+        <meta name="author" content="LayoutIt!">
+        <link href="css/bootstrap.min.css" rel="stylesheet">
+        <link href="css/style.css" rel="stylesheet">
+        <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css">
+        <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.2.1/jquery.min.js"></script>
+        <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/js/bootstrap.min.js"></script>
     </head><body>
         <nav class="navbar navbar-expand-sm bg-dark navbar-dark fixed-top">
             <a class="navbar-brand" href="#">Logo</a>
@@ -113,7 +124,6 @@
                 <div class="col-md-1"></div>
                 <div class="col-md-10">
                     <div class="jumbotron">
-                        <h3>261xxx LOL in everyday life</h3>
                         <br>
                         <div class="row">
                             <div class="col-md-8">
@@ -124,18 +134,39 @@
                                         <div id="card-991483">
                                             <div class="card">
                                                 <div class="card-header">
-                                                    <div class="row">
-                                                        <div class="col-md-9">
-                                                            <a class="card-link collapsed" data-toggle="collapse" data-parent="#card-991483" href="#card1">
-															<h4> Assignment1 </h4>
-														</a>
+                                                    <form class="form-horizontal" role="form">
+                                                        <div class="form-group">
+                                                            <div class="col-sm-2">
+                                                                <label class="control-label">Assignment name</label>
+                                                            </div>
+                                                            <div class="col-sm-10">
+                                                                <input type="text" class="form-control">
+                                                            </div>
                                                         </div>
-                                                        <div class="col-md-3">
-                                                            <label class="switch">
-                                                                <input type="checkbox">
-                                                            </label>
+                                                        <div class="form-group">
+                                                            <div class="col-sm-2">
+                                                                <label class="control-label">Description</label>
+                                                            </div>
+                                                            <div class="col-sm-10">
+                                                                <textarea class="form-control"></textarea>
+                                                            </div>
                                                         </div>
-                                                    </div>
+                                                        <div class="form-group">
+                                                            <div class="col-sm-2">
+                                                                <label class="control-label">File</label>
+                                                            </div>
+                                                            <div class="col-sm-10">
+                                                                <input type="file">
+                                                            </div>
+                                                        </div>
+                                                        
+                                                        
+                                                    <div class="form-group"> <div class="col-sm-2"><label class="control-label">Sub assignment</label></div> <div class="col-sm-10"> <div class="radio"> <label class="radio-inline"> <input type="radio">Opt1</label> <label class="radio-inline"> <input type="radio">Opt2</label> </div></div></div><div class="form-group">
+                                                            <div class="col-sm-offset-2 col-sm-10">
+                                                                <button type="submit" class="btn btn-default">Add sub assignment</button>
+                                                            </div>
+                                                        </div></form>
+                                                    <div class="form-inline"></div>
                                                 </div>
                                                 <div id="card1" class="collapse">
                                                     <div class="jumbotron">
@@ -150,19 +181,11 @@
                                                 </div>
                                             </div>
                                             <div class="card">
-                                                <label for="input-folder-3">Select files/folders</label>
-                                                <div class="file-loading">
-                                                    <input id="input-folder-3" name="input-folder-3[]" type="file" multiple="">
-                                                </div>
-                                                <script>
-                                                    $(document).on('ready', function() {
-                                                        $("#input-folder-3").fileinput({
-                                                            uploadUrl: "/file-upload-batch/2",
-                                                            hideThumbnailContent: true // hide image, pdf, text or other content in the thumbnail preview
-                                                        });
-                                                    });
-                                                </script>
-                                                
+                                                <link href="//netdna.bootstrapcdn.com/bootstrap/3.2.0/css/bootstrap.min.css" rel="stylesheet" id="bootstrap-css">
+                                                <script src="//netdna.bootstrapcdn.com/bootstrap/3.2.0/js/bootstrap.min.js"></script>
+                                                <script src="//code.jquery.com/jquery-1.11.1.min.js"></script>
+                                                <!------ Include the above in your HEAD tag ---------->
+                                                <!-- /container -->
                                                 <div id="card2" class="collapse">
                                                     <div class="jumbotron">
                                                         <p>xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
@@ -175,6 +198,12 @@
                                                     </div>
                                                 </div>
                                             </div>
+                                        </div>
+                                    </div>
+                                    <div class="row">
+                                        <div class="col-md-12 text-right">
+                                            <button type="button" class="btn btn-danger float-right">Cancel</button>
+                                            <button type="button" class="btn btn-primary float-right">Save Changes</button>
                                         </div>
                                     </div>
                                 </div>
