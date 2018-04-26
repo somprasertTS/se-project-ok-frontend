@@ -1,6 +1,6 @@
 
 <?php
-$page['title'] = "Student Dashboard";
+$page['title'] = "Student Process";
 include_once (realpath('templates/stapped/header.php'));
 include_once (realpath('templates/stapped/navbar.php'));
 ?>
