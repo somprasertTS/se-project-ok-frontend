@@ -29,7 +29,7 @@ include_once (realpath('templates/stapped/navbar.php'));
 							</div>
 							<div class="col-md-1.7">
 								<div class="dropdown">
-									<button class="btn btn-primary dropdown-toggle" type="button" id="dropdownMenuButton" data-toggle="dropdown">
+									<button class="btn btn-primary dropdown-toggle" type="button" id="dropdownMenuButton1" data-toggle="dropdown">
 										Sort by
 									</button>
 								<div class="dropdown-menu" aria-labelledby="dropdownMenuButton">
@@ -39,7 +39,7 @@ include_once (realpath('templates/stapped/navbar.php'));
 						</div>
 						<div class="col-md-1">
 							<div class="dropdown">
-								<button class="btn btn-primary dropdown-toggle" type="button" id="dropdownMenuButton" data-toggle="dropdown">
+								<button class="btn btn-primary dropdown-toggle" type="button" id="dropdownMenuButton2" data-toggle="dropdown">
 									Filter
 								</button>
 								<div class="dropdown-menu" aria-labelledby="dropdownMenuButton">
