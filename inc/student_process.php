@@ -1,3 +1,4 @@
+
 <?php
 $page['title'] = "Student Dashboard";
 include_once (realpath('templates/stapped/header.php'));
