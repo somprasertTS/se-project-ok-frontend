@@ -24,10 +24,12 @@ include_once (realpath('templates/stapped/navbar.php'));
 						<div class="col-md-8">
 							<div class="card">
 								<div class="card-body">
-									<button type="button" class="btn-sm btn-Secondary float-right">
-									<img src="pic/add.png" alt="icon">
-										Add assignment	
-									</button>
+									<a href="addAssignment.php">
+										<button type="button" class="btn-sm btn-Secondary float-right">
+										<img src="pic/add.png" alt="icon">
+											Add assignment	
+										</button>
+									</a>
 									<br><br>
 									<div id="card-991483">
 										<div class="card">
@@ -56,13 +58,17 @@ include_once (realpath('templates/stapped/navbar.php'));
 														xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
 													</p>
 													<br>
-													<button type="button" class="btn btn-primary float-right">
-													<img src="pic/icon.png" alt="icon">
-														Edit assignment	
-													</button>
-													<button type="button" class="btn float-right">
-														View assignment
-													</button> 
+													<a href="addAssignment.php">
+														<button type="button" class="btn btn-dark float-right">
+														<img src="pic/icon.png" alt="icon">
+															Edit assignment	
+														</button>
+													</a>
+													<a href="teacherProcessChart.php">
+														<button type="button" class="btn float-right">
+															View progress
+														</button> 
+													</a>
 												</div>
 											</div>
 										</div>
@@ -92,13 +98,17 @@ include_once (realpath('templates/stapped/navbar.php'));
 														xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
 													</p>
 													<br>
-													<button type="button" class="btn btn-primary float-right">
-													<img src="pic/icon.png" alt="icon">
-														Edit assignment	
-													</button>
-													<button type="button" class="btn float-right">
-														View assignment
-													</button> 
+													<a href="addAssignment.php">
+														<button type="button" class="btn btn-dark float-right">
+														<img src="pic/icon.png" alt="icon">
+															Edit assignment	
+														</button>
+													</a>
+													<a href="teacherProcessChart.php">
+														<button type="button" class="btn float-right">
+															View progress
+														</button> 
+													</a>
 												</div>
 											</div>
 										</div>
