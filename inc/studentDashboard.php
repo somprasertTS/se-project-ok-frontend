@@ -3,7 +3,7 @@ $page['title'] = "Student Dashboard";
 include_once (realpath('templates/stapped/header.php'));
 include_once (realpath('templates/stapped/navbar.php'));
 ?>
-    <body>
+<body>
 	<!--Background พื้นหลัง -->
 	<style type="text/css">	
 		body{

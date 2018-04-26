@@ -1,5 +1,5 @@
 <?php
-$page['title'] = "Teacher Dashboard";
+$page['title'] = "Coursepage";
 include_once (realpath('templates/stapped/header.php'));
 include_once (realpath('templates/stapped/navbar.php'));
 ?>
@@ -23,7 +23,6 @@ include_once (realpath('templates/stapped/navbar.php'));
 	}
 </style>
 <br><br><br><br><br>
-<<<<<<< HEAD
 <div class="row">
 			<div class="col-md-1">
 			</div>
@@ -33,9 +32,6 @@ include_once (realpath('templates/stapped/navbar.php'));
 				<div class="container-fluid">
 					<div class="row">
 <div class="container-fluid">
-=======
-<div class="container">
->>>>>>> upstream/Non
 	<div class="row">
 		<div class="col-md-12">	
 				<div class="row">
@@ -286,3 +282,4 @@ include_once (realpath('templates/stapped/navbar.php'));
 </div>
 </div>
 </div>
+</body>
