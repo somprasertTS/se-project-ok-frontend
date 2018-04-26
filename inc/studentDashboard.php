@@ -3,10 +3,25 @@ $page['title'] = "Student Dashboard";
 include_once (realpath('templates/stapped/header.php'));
 include_once (realpath('templates/stapped/navbar.php'));
 ?>
-<body>
-	<?php
-		include_once (realpath('templates/stapped/style.php'));
-	?>
+    <body>
+	<!--Background พื้นหลัง -->
+	<style type="text/css">	
+		body{
+			background-image:url(pic/BG1.jpg);
+			background-size:cover;
+			background-attachment:fixed;	
+		}
+		.content{
+			background:black;
+			width : 50%;
+			padding:40px;
+			margin:100px auto;
+		}
+		p{
+			font-size :25px;
+			color :black;
+		}
+	</style>
 	<br><br><br><br><br>
 	<div class="row">
 			<div class="col-md-1">
@@ -22,28 +37,30 @@ include_once (realpath('templates/stapped/navbar.php'));
 							<div class="row">
 							<div class="col-md-1">
 							</div>
-							<div class="col-md-8">
+							<div class="col-md-7">
 								<h2>
 								Recent update course
 								</h2>
 							</div>
-							<div class="col-md-1.7">
+							<div class="col-md-2">
 								<div class="dropdown">
-									<button class="btn btn-primary dropdown-toggle" type="button" id="dropdownMenuButton1" data-toggle="dropdown">
+									<button class="btn btn-primary dropdown-toggle" type="button" id="dropdownMenuButton" data-toggle="dropdown">
 										Sort by
 									</button>
 								<div class="dropdown-menu" aria-labelledby="dropdownMenuButton">
-						 			<a class="dropdown-item disabled" href="#">Action</a> <a class="dropdown-item" href="#">Another action</a> <a class="dropdown-item" href="#">Something else here</a>
+						 			<a class="dropdown-item disabled" href="#">date</a>
+									<a class="dropdown-item" href="#">letter(A>Z)</a> 
 								</div>
 							</div>
 						</div>
 						<div class="col-md-1">
 							<div class="dropdown">
-								<button class="btn btn-primary dropdown-toggle" type="button" id="dropdownMenuButton2" data-toggle="dropdown">
+								<button class="btn btn-primary dropdown-toggle" type="button" id="dropdownMenuButton" data-toggle="dropdown">
 									Filter
 								</button>
 								<div class="dropdown-menu" aria-labelledby="dropdownMenuButton">
-						 			<a class="dropdown-item disabled" href="#">Action</a> <a class="dropdown-item" href="#">Another action</a> <a class="dropdown-item" href="#">Something else here</a>
+									<a class="dropdown-item defult" href="#">enroll corse</a>
+									<a class="dropdown-item" href="#">letter(A>Z)</a> 
 								</div>
 							</div>
 						</div>
@@ -61,14 +78,14 @@ include_once (realpath('templates/stapped/navbar.php'));
 								<div class="row">
 									<div class="col-md-4">
 									</div>
-									<div class="col-md-5">
+									<div class="col-md-4">
 									</div>
-									<div class="col-md-1">									 
+									<div class="col-md-1">									 										
 										<a href ="studentProcess.php">
 											<button type="button" class="btn btn-primary" >
 												View assignment
 											</button>	
-										</a>
+										</a>	
 									</div>
 									<div class="col-md-7">
 									</div>
@@ -81,7 +98,7 @@ include_once (realpath('templates/stapped/navbar.php'));
 							<div class="row">
 									<div class="col-md-4">
 									</div>
-									<div class="col-md-5">
+									<div class="col-md-4">
 									</div>
 									<div class="col-md-1">			 
 										<a href ="studentProcess.php">
@@ -101,7 +118,7 @@ include_once (realpath('templates/stapped/navbar.php'));
 							<div class="row">
 									<div class="col-md-4">
 									</div>
-									<div class="col-md-5">
+									<div class="col-md-4">
 									</div>
 									<div class="col-md-1">		 
 										<a href ="studentProcess.php">
@@ -119,12 +136,13 @@ include_once (realpath('templates/stapped/navbar.php'));
 									</div>
 								<div class="col-md-5">
 								</div>
-								<div class="col-md-1">
+								<div class="col-md-2">						 
 									<a href="Coursepage.php">
     									<button type="button" class="btn btn-primary">
 											See all
 										</button>
 									</a>
+									<br>
 								</div>
 								<br><br>
 								<div class="col-md-5">
