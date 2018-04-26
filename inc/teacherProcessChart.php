@@ -64,7 +64,9 @@ include_once (realpath('templates/stapped/navbar.php'));
                                     </tbody>
                                 </table>
                             </div>
-                            <button type="button" class="btn float-right">Back</button>
+                            <a href="teacherProcess.php">
+                                <button type="button" class="btn float-right">Back</button>
+                            </a>
     		    		</div>
 	    	    		<div class="col-md-2">
 		    	    	</div>
