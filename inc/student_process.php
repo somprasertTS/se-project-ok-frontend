@@ -24,10 +24,6 @@ include_once (realpath('templates/stapped/navbar.php'));
 						<div class="col-md-8">
 							<div class="card">
 								<div class="card-body">
-									<button type="button" class="btn-sm btn-Secondary float-right">
-									<img src="pic/add.png" alt="icon">
-										Add assignment	
-									</button>
 									<br><br>
 									<div id="card-991483">
 										<div class="card">
