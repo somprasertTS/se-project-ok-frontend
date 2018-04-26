@@ -4,24 +4,9 @@ include_once (realpath('templates/stapped/header.php'));
 include_once (realpath('templates/stapped/navbar.php'));
 ?>
 <body>
-	<!--Background พื้นหลัง -->
-	<style type="text/css">	
-		body{
-			background-image:url(pic/BG1.jpg);
-			background-size:cover;
-			background-attachment:fixed;	
-		}
-		.content{
-			background:black;
-			width : 50%;
-			padding:40px;
-			margin:100px auto;
-		}
-		p{
-			font-size :25px;
-			color :black;
-		}
-	</style>
+	<?php
+		include_once (realpath('templates/stapped/style.php'));
+	?>
 	<br><br><br><br><br>
 	<div class="row">
 			<div class="col-md-1">
