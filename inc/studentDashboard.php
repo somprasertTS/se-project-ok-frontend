@@ -64,9 +64,11 @@ include_once (realpath('templates/stapped/navbar.php'));
 									<div class="col-md-5">
 									</div>
 									<div class="col-md-1">									 
-										<button type="button" class="btn btn-primary">
-											View assignment	
-										</button>
+										<a href ="studentProcess.php">
+											<button type="button" class="btn btn-primary" >
+												View assignment
+											</button>	
+										</a>
 									</div>
 									<div class="col-md-7">
 									</div>
@@ -82,9 +84,11 @@ include_once (realpath('templates/stapped/navbar.php'));
 									<div class="col-md-5">
 									</div>
 									<div class="col-md-1">			 
-										<button type="button" class="btn btn-primary">
-											View assignment	
-										</button>
+										<a href ="studentProcess.php">
+											<button type="button" class="btn btn-primary" >
+												View assignment
+											</button>	
+										</a>
 									</div>
 									<div class="col-md-5">
 									</div>
@@ -99,11 +103,12 @@ include_once (realpath('templates/stapped/navbar.php'));
 									</div>
 									<div class="col-md-5">
 									</div>
-									<div class="col-md-1">
-										<p src="1.png" alt="image description" title="You are not enroll in this course"/>		 
-										<button type="button" class="btn disabled btn-primary">
-											View assignment	
-										</button>
+									<div class="col-md-1">		 
+										<a href ="studentProcess.php">
+											<button type="button" class="btn btn-primary" >
+												View assignment
+											</button>	
+										</a>
 									</div>
 									<div class="col-md-5">
 									</div>
@@ -114,10 +119,12 @@ include_once (realpath('templates/stapped/navbar.php'));
 									</div>
 								<div class="col-md-5">
 								</div>
-								<div class="col-md-1">						 
-									<button type="button" class="btn  btn-primary">
-										See all
-									</button>
+								<div class="col-md-1">
+									<a href="Coursepage.php">
+    									<button type="button" class="btn btn-primary">
+											See all
+										</button>
+									</a>
 								</div>
 								<br><br>
 								<div class="col-md-5">

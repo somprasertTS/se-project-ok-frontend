@@ -37,18 +37,19 @@ include_once (realpath('templates/stapped/navbar.php'));
 							<div class="row">
 							<div class="col-md-1">
 							</div>
-							<div class="col-md-8">
+							<div class="col-md-7">
 								<h2>
 								Recent update course
 								</h2>
 							</div>
-							<div class="col-md-1.7">
+							<div class="col-md-2">
 								<div class="dropdown">
 									<button class="btn btn-primary dropdown-toggle" type="button" id="dropdownMenuButton" data-toggle="dropdown">
 										Sort by
 									</button>
 								<div class="dropdown-menu" aria-labelledby="dropdownMenuButton">
-						 			<a class="dropdown-item disabled" href="#">Action</a> <a class="dropdown-item" href="#">Another action</a> <a class="dropdown-item" href="#">Something else here</a>
+						 			<a class="dropdown-item disabled" href="#">date</a>
+									<a class="dropdown-item" href="#">letter(A>Z)</a> 
 								</div>
 							</div>
 						</div>
@@ -58,7 +59,8 @@ include_once (realpath('templates/stapped/navbar.php'));
 									Filter
 								</button>
 								<div class="dropdown-menu" aria-labelledby="dropdownMenuButton">
-						 			<a class="dropdown-item disabled" href="#">Action</a> <a class="dropdown-item" href="#">Another action</a> <a class="dropdown-item" href="#">Something else here</a>
+									<a class="dropdown-item defult" href="#">enroll corse</a>
+									<a class="dropdown-item" href="#">letter(A>Z)</a> 
 								</div>
 							</div>
 						</div>
@@ -78,11 +80,13 @@ include_once (realpath('templates/stapped/navbar.php'));
 									</div>
 									<div class="col-md-4">
 									</div>
-									<div class="col-md-1">									 
-										<button type="button" class="btn btn-primary">
-										<img src="pic/icon.png" alt="icon">
-											Edit assignment	
-										</button>
+									<div class="col-md-1">									 										
+										<a href ="teacherProcess.php">
+											<button type="button" class="btn btn-primary" >
+											<img src="pic/icon.png" alt="icon">
+												Edit assignment
+											</button>	
+										</a>	
 									</div>
 									<div class="col-md-7">
 									</div>
@@ -98,10 +102,12 @@ include_once (realpath('templates/stapped/navbar.php'));
 									<div class="col-md-4">
 									</div>
 									<div class="col-md-1">			 
-										<button type="button" class="btn btn-primary">
-										<img src="pic/icon.png" alt="icon">
-											Edit assignment	
-										</button>
+										<a href ="teacherProcess.php">
+											<button type="button" class="btn btn-primary" >
+											<img src="pic/icon.png" alt="icon">
+												Edit assignment
+											</button>	
+										</a>
 									</div>
 									<div class="col-md-5">
 									</div>
@@ -117,10 +123,12 @@ include_once (realpath('templates/stapped/navbar.php'));
 									<div class="col-md-4">
 									</div>
 									<div class="col-md-1">		 
-										<button type="button" class="btn btn-primary">
-										<img src="pic/icon.png" alt="icon">
-												Edit assignment	
-										</button>
+										<a href ="teacherProcess.php">
+											<button type="button" class="btn btn-primary" >
+											<img src="pic/icon.png" alt="icon">
+												Edit assignment
+											</button>	
+										</a>
 									</div>
 									<div class="col-md-5">
 									</div>
@@ -131,10 +139,13 @@ include_once (realpath('templates/stapped/navbar.php'));
 									</div>
 								<div class="col-md-5">
 								</div>
-								<div class="col-md-1">						 
-									<button type="button" class="btn  btn-primary">
-										See all
-									</button>
+								<div class="col-md-2">						 
+									<a href="Coursepage.php">
+    									<button type="button" class="btn btn-primary">
+											See all
+										</button>
+									</a>
+									<br>
 								</div>
 								<br><br>
 								<div class="col-md-5">
